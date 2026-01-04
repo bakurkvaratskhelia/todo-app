@@ -9,9 +9,8 @@ This project demonstrates cross-platform development, real-time data synchroniza
 
 ## Live Demo
 
-<!-- If deployed, provide a link below. If using Expo, you might link to the Expo Go app or a Snack link. -->
-*Coming soon!*  
-<!-- Example: [Try on Expo Snack](https://snack.expo.dev/@bakurkvaratskhelia/todo-app) -->
+- **[Download Android APK](https://expo.dev/artifacts/eas/cCaffYAn8A8P4Hr3KBKr5B.apk)**  
+  Install directly on your Android device to try out the app!
 
 ---
 
@@ -114,6 +113,5 @@ MIT License
 
 Feel free to [open an issue](https://github.com/bakurkvaratskhelia/todo-app/issues) or contact me via  
 **Email:** bakur@example.com  
-  
+**LinkedIn:** [your-linkedin-url]  
 Contributions and suggestions are always welcome!
-
