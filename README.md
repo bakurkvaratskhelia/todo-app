@@ -1,37 +1,84 @@
 # Cross-Platform Todo App
 
-A full-stack todo application that runs on **iOS, Android, and Web**,
-built with **React Native + Expo** and powered by **Convex** for realtime backend and data sync.
+A **full-stack, real-time todo application** that runs on **iOS, Android, and the Web** from a single codebase, built with **React Native + Expo** and powered by **Convex** as the backend.
 
-## Features
-- Cross-platform support (iOS / Android / Web)
-- Realtime data sync with Convex
-- Create / update / delete todos
-- Responsive UI
-- Shared codebase across platforms
+This project demonstrates cross-platform development, real-time data synchronization, and modern full-stack architecture.
 
-## Tech Stack
-- Frontend: React Native, Expo
-- Backend: Convex
-- Language: JavaScript / TypeScript
-- State & Data: Convex Realtime Queries
+---
 
 ## Screenshots
-<!-- add screenshots here -->
-![1767529726204](https://github.com/user-attachments/assets/1708f34f-e3de-45df-92e7-228546db2630)
-![1767529726215](https://github.com/user-attachments/assets/0b563743-4bb3-4ffc-b334-60a14ab0ac75)
-![1767529726226](https://github.com/user-attachments/assets/3279d1d5-bb60-4230-8fb2-495069b0a222)
-![1767529726236](https://github.com/user-attachments/assets/70f6a0fe-3d5d-4499-8bf3-5a584b949867)
-![1767529726246](https://github.com/user-attachments/assets/cd02392c-8a08-478b-9049-d64d61b2c4a7)
+
+### Mobile
+![Mobile Screenshot](./screenshots/mobile.png)
+
+### Web
+![Web Screenshot](./screenshots/web.png)
+
+---
+
+## Features
+
+- Cross-platform support: **iOS, Android, Web**
+- Real-time data synchronization
+- Create, update, and delete todos
+- Shared codebase across all platforms
+- Backend logic and database handled by Convex
+- Clean and responsive UI
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React Native
+- Expo
+
+**Backend**
+- Convex (database, server functions, real-time sync)
+
+**Language**
+- JavaScript / TypeScript
+
+**Tooling**
+- Git & GitHub
+- Expo CLI
+- Convex CLI
+
+---
 
 
-## How to Run Locally
-1. Clone the repo
-2. Install dependencies: `npm install`
-3. Start Convex backend
-4. Run app: `npx expo start`
+---
 
-## What I Built
-This project was built from scratch to explore cross-platform development
-and realtime full-stack architecture using Convex.
+## Installation & Running Locally
+
+### Prerequisites (All OS)
+Make sure you have installed:
+- **Node.js** (v18+ recommended)
+- **npm**
+- **Git**
+
+---
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/bakurkvaratskhelia/todo-app.git
+cd todo-app
+npm install
+npm install -g convex
+
+npx convex dev
+
+npx expo start
+
+
+---
+
+Author
+
+Bakur Kvaratskhelia
+Full-Stack JavaScript Developer
+GitHub: https://github.com/bakurkvaratskhelia
+
+
+## Project Structure (Overview)
 
