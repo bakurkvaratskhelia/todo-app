@@ -58,20 +58,45 @@ Make sure you have installed:
 - **Git**
 
 ---
+## Project Structure (Overview)
+/app        → Application screens and components
+/convex     → Backend logic and database schema
+/assets     → Images and static files
 
-### 1. Clone the repository
-```bash
+
+1. Clone the repository
 git clone https://github.com/bakurkvaratskhelia/todo-app.git
 cd todo-app
+2. Install dependencies
 npm install
+3. Install Convex CLI (if not installed)
 npm install -g convex
-
+4. Start the Convex backend
 npx convex dev
+
+This command:
+Starts the backend
+Initializes the database
+Enables real-time synchronization
+Keep this terminal running.
+
+5. Start the Expo application
+
+Open a new terminal and run:
 
 npx expo start
 
 
+You can now:
+Run the app on Android Emulator
+Run on iOS Simulator
+Open in a Web Browser
+Scan the QR code using Expo Go on a physical device
+
+
+
 ---
+
 
 Author
 
@@ -80,5 +105,5 @@ Full-Stack JavaScript Developer
 GitHub: https://github.com/bakurkvaratskhelia
 
 
-## Project Structure (Overview)
+
 
