@@ -113,5 +113,5 @@ MIT License
 
 Feel free to [open an issue](https://github.com/bakurkvaratskhelia/todo-app/issues) or contact me via  
 **Email:** bakur@example.com  
-**LinkedIn:** [your-linkedin-url]  
+**LinkedIn:** www.linkedin.com/in/bakur-kvaratskhelia-5784603a 
 Contributions and suggestions are always welcome!
