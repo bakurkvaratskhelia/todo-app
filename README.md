@@ -17,11 +17,8 @@ built with **React Native + Expo** and powered by **Convex** for realtime backen
 - State & Data: Convex Realtime Queries
 
 ## Screenshots
-<!-- add screenshots here -->![1767529726204](https://github.com/user-attachments/assets/f521dfb1-2252-48ab![1767529726215](https://github.com/user-attachments/assets/4dc9cab9-0d82-446f-8961-![1767529726226](https://github.com/user-attachments/assets/402b6668-5a0c-4001-bcaa-d5cfa414c615)
-df87283a3a5d)![1767529726236](https://github.com/user-attachments/assets/ff0fb305-0a15-424d-b131-3d6999fedffb)![1767529726246](https://github.com/user-attachments/assets/7d4ca27f-d568-4f0e-abd6-508f4820a9ce)
-
-
--bff0-ffaab5ff7432)
+<!-- add screenshots here -->
+![1767529726204](https://github.com/user-attachments/assets/1708f34f-e3de-45df-92e7-228546db2630)
 
 
 ## How to Run Locally
