@@ -19,6 +19,10 @@ built with **React Native + Expo** and powered by **Convex** for realtime backen
 ## Screenshots
 <!-- add screenshots here -->
 ![1767529726204](https://github.com/user-attachments/assets/1708f34f-e3de-45df-92e7-228546db2630)
+![1767529726215](https://github.com/user-attachments/assets/0b563743-4bb3-4ffc-b334-60a14ab0ac75)
+![1767529726226](https://github.com/user-attachments/assets/3279d1d5-bb60-4230-8fb2-495069b0a222)
+![1767529726236](https://github.com/user-attachments/assets/70f6a0fe-3d5d-4499-8bf3-5a584b949867)
+![1767529726246](https://github.com/user-attachments/assets/cd02392c-8a08-478b-9049-d64d61b2c4a7)
 
 
 ## How to Run Locally
