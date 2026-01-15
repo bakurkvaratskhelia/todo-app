@@ -8,15 +8,13 @@ This project demonstrates cross-platform development, real-time data synchroniza
 ---
 
 
-## Screenshots
+## 📸 Screenshots
 
-### Mobile
-![Mobile Screenshot](screenshots/mobile.png)
-
-### Web
-![Web Screenshot](screenshots/web.png)
-
----
+<img src="screenshots/3 (0).jpg" alt="Screenshot 1" width="300"/>
+<img src="screenshots/3 (1).jpg" alt="Screenshot 2" width="300"/>
+<img src="screenshots/3 (2).jpg" alt="Screenshot 3" width="300"/>
+<img src="screenshots/3 (3).jpg" alt="Screenshot 4" width="300"/>
+<img src="screenshots/3 (4).jpg" alt="Screenshot 5" width="300"/>
 
 ## Features
 
