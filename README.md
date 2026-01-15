@@ -106,7 +106,7 @@ npx expo start      # Launch Expo development tools (choose iOS, Android, or Web
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
