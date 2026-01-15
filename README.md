@@ -16,6 +16,15 @@ This project demonstrates cross-platform development, real-time data synchroniza
 <img src="screenshots/3 (3).jpg" alt="Screenshot 4" width="300"/>
 <img src="screenshots/3 (4).jpg" alt="Screenshot 5" width="300"/>
 
+## 📲 Download the Android App
+
+**[⬇️ Download the latest APK](https://github.com/bakurkvaratskhelia/todo-app/releases/download/v1.0.0/application-911aebc1-89dc-46f5-9be6-34cd8507b06c.apk)**
+
+You can install this on any Android device.  
+If installing for the first time, you may need to enable installation from unknown sources.
+
+---
+
 ## Features
 
 - Cross-platform support: **iOS, Android, Web**
