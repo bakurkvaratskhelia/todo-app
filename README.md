@@ -1,50 +1,111 @@
-# Welcome to your Expo app 👋
+# Cross-Platform Todo App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A **full-stack, real-time todo application** that runs on **iOS, Android, and the Web** from a single codebase.  
+Built with **React Native + Expo** on the frontend and powered by **Convex** as the backend.
 
-## Get started
+This project demonstrates cross-platform development, real-time data synchronization, and modern full-stack architecture.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## Screenshots
 
-   ```bash
-   npx expo start
-   ```
+### Mobile
+![Mobile Screenshot](screenshots/mobile.png)
 
-In the output, you'll find options to open the app in a
+### Web
+![Web Screenshot](screenshots/web.png)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Features
 
-## Get a fresh project
+- Cross-platform support: **iOS, Android, Web**
+- Real-time data synchronization
+- Create, update, and delete todos
+- Shared codebase across all platforms
+- Backend logic and database handled by Convex
+- Clean and responsive UI
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
+## Tech Stack
+
+### Frontend
+- React Native
+- Expo
+
+### Backend
+- Convex (database, server functions, real-time sync)
+
+### Language
+- JavaScript / TypeScript
+
+### Tooling
+- Git & GitHub
+- Expo CLI
+- Convex CLI
+
+---
+
+## Project Structure
+
+```
+todo-app/
+├── app/            # Main React Native portable app code
+├── convex/         # Convex backend schema and serverless functions
+├── screens/        # UI screens for mobile and web
+├── components/     # Reusable UI components
+├── public/         # Static assets (icons, splash, etc.)
+├── screenshots/    # Demo screenshots (see above)
+├── package.json    # Project metadata & scripts
+└── ...
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## Why This Project?
 
-To learn more about developing your project with Expo, look at the following resources:
+I built this project to explore and demonstrate modern techniques for delivering a consistent user experience across mobile and web platforms with a **single codebase**. Leveraging **Expo** and **React Native**, I focused on seamless cross-platform UI, while **Convex** allowed me to implement real-time data sync and simplified backend logic.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Key challenges tackled:
+- Ensuring truly live updates—todos appear instantly across devices
+- Organizing code for easy sharing between platforms and backend
+- Navigating platform-specific quirks with Expo and React Native
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## Installation & Running Locally
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Works on **Windows, macOS, and Linux**.
+
+### Prerequisites
+- **Node.js** (v18 or newer)
+- **npm**
+- **Git**
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/bakurkvaratskhelia/todo-app.git
+cd todo-app
+npm install
+npm install -g convex
+npx convex dev      # Starts Convex backend locally
+npx expo start      # Launch Expo development tools (choose iOS, Android, or Web)
+```
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Contact
+
+Feel free to [open an issue](https://github.com/bakurkvaratskhelia/todo-app/issues) or contact me via  
+**Email:** bakur@example.com  
+**LinkedIn:** www.linkedin.com/in/bakur-kvaratskhelia-5784603a 
+Contributions and suggestions are always welcome!
